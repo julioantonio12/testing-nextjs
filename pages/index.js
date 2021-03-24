@@ -25,7 +25,7 @@ export default function Home({ allPostsData }) {
         Hello, this is my first page made with <b>Nextjs</b>. In this course
         I'll try to do my best to learn all that I can and I'm gonna practice
         doing a project on my job. The project's name is: <b>Praxis</b>. I
-        invite you to check out the blogs below.
+        invite you to check out the blogs below. This is a simple new comment to test PR's
       </p>
       <p>
         Link to my{" "}
